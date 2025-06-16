@@ -1,0 +1,26 @@
+{
+          "short_name": "BodyShine",
+          "name": "BodyShine App - Belleza y Bienestar",
+          "icons": [
+            {
+              "src": "favicon.ico",
+              "sizes": "64x64 32x32 24x24 16x16",
+              "type": "image/x-icon"
+            },
+            {
+              "src": "logo192.png",
+              "type": "image/png",
+              "sizes": "192x192"
+            },
+            {
+              "src": "logo512.png",
+              "type": "image/png",
+              "sizes": "512x512"
+            }
+          ],
+          "start_url": ".",
+          "display": "standalone",
+          "theme_color": "#FF7B9C",
+          "background_color": "#ffffff",
+          "description": "Una aplicación web integral para explorar productos de belleza limpios, probar looks virtualmente, reservar citas con profesionales y obtener consejos de bienestar personalizados con IA."
+        }
