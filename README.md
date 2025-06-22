@@ -7,5 +7,4 @@
    `npm run dev`
 =======
 # bodyshine
->>>>>>> 1f3f8cd263d9bbb606dba412802894ee65ecee4a
 
