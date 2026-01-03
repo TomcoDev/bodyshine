@@ -1,7 +1,7 @@
 
 import { Product, Professional, WellnessTip, VirtualLook, ProductCategory, SkinType, HairConcern } from './types';
 
-export const GEMINI_MODEL_NAME = 'gemini-2.5-flash-preview-04-17';
+export const GEMINI_MODEL_NAME = 'gemini-3.0-flash';
 
 export const MOCK_PRODUCTS: Product[] = [
   {
